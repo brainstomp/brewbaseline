@@ -45,3 +45,4 @@ brew install --cask balenaetcher
 brew install --cask bartender
 brew install --cask itsycal
 brew install --cask rectangle
+brew tap homebrew/autoupdate
