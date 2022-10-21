@@ -19,6 +19,8 @@ brew install --cask vlc
 brew install handbrake
 brew install --cask obs
 brew install --cask openshot-video-editor
+brew install ffmpeg
+brew install yt-dlp
 
 # Browsers
 brew install --cask brave-browser
