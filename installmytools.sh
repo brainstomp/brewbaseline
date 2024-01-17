@@ -57,5 +57,6 @@ brew install --cask balenaetcher
 brew install --cask bartender
 brew install --cask itsycal
 brew install --cask rectangle
+brew install --cask elgato-stream-deck
 
 brew tap homebrew/autoupdate
